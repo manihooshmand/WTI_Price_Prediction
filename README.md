@@ -82,4 +82,5 @@ P.S.2. output is : WTI Stock Price (WTI_Index) as an approximate integer
 | Jan 01, 2018 |     64.73 |   13367.96 |      4.84 |
 
 +--------------+-----------+------------+-----------+
+
 //Developed By Mani Hooshmand !
